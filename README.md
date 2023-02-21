@@ -27,13 +27,13 @@ Scripting and building objects are the only two major things in game Development
 ### What's next for Impact
 Add a few more checkpoints denoting more pairs of human and inhuman choices , create a few more relatable maps so that the experience is personal to the player and they do take away some humanitarian values from the game and actually act similar to the game in their real life and help make the community around them a better place to live in.
 
-###Built With
+### Built With
 api
 lua
 roblox
 
 ### Try it out
- www.roblox.com
+https://www.roblox.com/games/12536124874/H4H
  
 ### Santa Clara University's Humanitarian Hackathon
 
